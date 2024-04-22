@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rhett Liao
-- 👀 I am IT engineer skilled with AI and Blockchain development. 
+- 👀 I am IT engineer and skilled with AI and Blockchain techniquies. 
 - 🌱 I've experienced in Website development,AI projects and Blockchain projects like smart contract, DEX platform with solidity and rust.
 - 💞️ I’m looking to collaborate on Web site developers and Blockchain develpers.
 - 🌈 Skills
