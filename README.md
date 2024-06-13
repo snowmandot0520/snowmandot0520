@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Takuya Hukuda from Japan</br>
+- 👋 Hi
 - 👀 I am AI engineer skilled with Full-stack and Bolockchain</br>
 - 🌱 I have rich experience in AI applications and Blockchain projects.</br>
 - 💞️ I’m looking to collaborate on Web site developers and Blockchain develpers with my skills.</br>
